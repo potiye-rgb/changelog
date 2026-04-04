@@ -1,5 +1,9 @@
-AKTUALIZACJA V1.0
-----------------------
-+ Nowy wyglad GUI
-+ Połączenie z githubem
-+ Testtesttest
+AKTUALIZACJA V1.1
+---------------------------
++ NAPRAWIONO: Błędy kompilacji CS0246 (MLaunchOption)
++ NOWOŚĆ: Wykrywanie zamknięcia gry (przycisk się resetuje)
++ NOWOŚĆ: Blokada przycisku podczas działania Minecrafta
++ ZMIANA: Nowy interfejs panelu logowania (Tryb Offline)
++ TEST: Połączenie z repozytorium GitHub działa poprawnie
+---------------------------
+Dziękujemy za korzystanie z launchera!
