@@ -3,3 +3,4 @@ AKTUALIZACJA V1.0
 + Nowy wyglad GUI (szklo)
 + Oficjalne logo by Poti
 + Changelog z GitHuba
++ test
