@@ -10,12 +10,3 @@ AKTUALIZACJA V1.2
 + TEST: Poprawność ścieżek assets w strukturze resource packa
 ---------------------------
 Dziękuje za obserwowanie projektu Minecraft by Poti!
-
-AKTUALIZACJA V1.1
----------------------------
-+ NAPRAWIONO: Błędy kompilacji CS0246 (MLaunchOption)
-+ NOWOŚĆ: Wykrywanie zamknięcia gry (przycisk się resetuje)
-+ NOWOŚĆ: Blokada przycisku podczas działania Minecrafta
-+ ZMIANA: Nowy interfejs panelu logowania (Tryb Offline)
-+ TEST: Połączenie z repozytorium GitHub działa poprawnie
----------------------------
