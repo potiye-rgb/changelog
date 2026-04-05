@@ -1,3 +1,16 @@
+AKTUALIZACJA V1.2
+---------------------------
++ NOWOŚĆ: Logowanie kontem Microsoft (OAuth)
++ NOWOŚĆ: Ustawienia Launchera (RAM, Ścieżka zapisu, itp.)
++ NOWOŚĆ: Discord RP (Rich Presence - status w profilu)
++ NOWOŚĆ: Oficjalny texture pack dodany do każdej wersji Minecrafta
++ NOWOŚĆ: System dynamicznej panoramy 360° w menu głównym
++ NOWOŚĆ: Personalizacja muzyki w menu
++ ZMIANA: Implementacja plików .lang dla własnych nazw przedmiotów
++ TEST: Poprawność ścieżek assets w strukturze resource packa
+---------------------------
+Dziękuje za obserwowanie projektu Minecraft by Poti!
+
 AKTUALIZACJA V1.1
 ---------------------------
 + NAPRAWIONO: Błędy kompilacji CS0246 (MLaunchOption)
@@ -6,4 +19,3 @@ AKTUALIZACJA V1.1
 + ZMIANA: Nowy interfejs panelu logowania (Tryb Offline)
 + TEST: Połączenie z repozytorium GitHub działa poprawnie
 ---------------------------
-Dziękujemy za korzystanie z launchera!
