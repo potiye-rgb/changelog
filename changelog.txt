@@ -1,12 +1,11 @@
-WERSJA V1.0.0 (INITIAL RELEASE)
+WERSJA V1.0.1 (UPDATE MENU MODÓW & UPDATER)
 ---------------------------
-+ NOWOŚĆ: Działająca paczka Poticraft 1.8.9 (Auto-download)
-+ NOWOŚĆ: Implementacja przycisku "FOLDER .MC" - szybki dostęp do .poticraft
-+ NOWOŚĆ: Discord Rich Presence - wyświetlanie aktualnej wersji gry
-+ NOWOŚĆ: Dynamiczny status Discord - synchronizacja z menu Ustawienia
-+ ZMIANA: Blokada UI (nick/wersja) podczas aktywnego procesu gry
-+ ZMIANA: Optymalizacja AssetIndex dla wersji 1.8.9 (naprawa crashy)
-+ ZMIANA: Poprawka logiki powrotu do trybu No-Premium
-+ TEST: Wstępna optymalizacja weryfikacji bibliotek przed startem
++ NOWOŚĆ: MENU MODÓW - INSTALACJA PROPONOWANYCH MODYFIKACJI Z POZIOMU APLIKACJI
++ NOWOŚĆ: UPDATER - AUTOMATYCZNE AKTUALIZACJE W LAUNCHERZE OD WERSJI 1.0.1 W GÓRĘ
++ ZMIANA: NAPRAWA BŁĘDU LOGOWANIA MICROSOFT (AUTORYZACJA KONT PREMIUM)
++ ZMIANA: ODŚWIEŻONY WYGLĄD INSTALATORA (NAGŁÓWEK ORAZ TŁO BOCZNE)
++ ZMIANA: POPRAWA STABILNOŚCI POŁĄCZENIA Z DISCORD RPC
++ ZMIANA: OPTYMALIZACJA WERYFIKACJI BIBLIOTEK PRZED STARTEM
++ TEST: ROZSZERZALNA BAZA MODYFIKACJI DLA WERSJI 1.8.9
 ---------------------------
-Dokumentacja techniczna projektu Minecraft by Poti.
+DOKUMENTACJA TECHNICZNA PROJEKTU MINECRAFT BY POTI.
