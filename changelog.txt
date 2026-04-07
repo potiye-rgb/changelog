@@ -1,12 +1,12 @@
-AKTUALIZACJA V1.3
+WERSJA V1.0.0 (INITIAL RELEASE)
 ---------------------------
-+ NOWOŚĆ: Działająca paczka Poticraft 1.8.9!
-+ NOWOŚĆ: Przycisk "FOLDER .MC" - szybki dostęp do Twoich plików .poticraft
-+ NOWOŚĆ: Discord RP (Rich Presence) wyświetla teraz konkretną wersję gry
-+ NOWOŚĆ: Status Discord zmienia się automatycznie podczas pobytu w Ustawieniach
-+ ZMIANA: Blokada nicku i wersji podczas pracy gry (stabilność sesji)
-+ ZMIANA: Poprawka AssetIndex dla wersji 1.8.9 (naprawa crashy)
-+ ZMIANA: Naprawiono powrót do trybu No-Premium po anulowaniu logowania Microsoft
-+ TEST: Optymalizacja szybkości sprawdzania bibliotek przed startem
++ NOWOŚĆ: Działająca paczka Poticraft 1.8.9 (Auto-download)
++ NOWOŚĆ: Implementacja przycisku "FOLDER .MC" - szybki dostęp do .poticraft
++ NOWOŚĆ: Discord Rich Presence - wyświetlanie aktualnej wersji gry
++ NOWOŚĆ: Dynamiczny status Discord - synchronizacja z menu Ustawienia
++ ZMIANA: Blokada UI (nick/wersja) podczas aktywnego procesu gry
++ ZMIANA: Optymalizacja AssetIndex dla wersji 1.8.9 (naprawa crashy)
++ ZMIANA: Poprawka logiki powrotu do trybu No-Premium
++ TEST: Wstępna optymalizacja weryfikacji bibliotek przed startem
 ---------------------------
-Dziękuje za obserwowanie projektu Minecraft by Poti!
+Dokumentacja techniczna projektu Minecraft by Poti.
