@@ -1,12 +1,12 @@
-AKTUALIZACJA V1.2
+AKTUALIZACJA V1.3
 ---------------------------
-+ NOWOŚĆ: Logowanie kontem Microsoft (OAuth)
-+ NOWOŚĆ: Ustawienia Launchera (RAM, Ścieżka zapisu, itp.)
-+ NOWOŚĆ: Discord RP (Rich Presence - status w profilu)
-+ NOWOŚĆ: Oficjalny texture pack dodany do każdej wersji Minecrafta
-+ NOWOŚĆ: System dynamicznej panoramy 360° w menu głównym
-+ NOWOŚĆ: Personalizacja muzyki w menu
-+ ZMIANA: Implementacja plików .lang dla własnych nazw przedmiotów
-+ TEST: Poprawność ścieżek assets w strukturze resource packa
++ NOWOŚĆ: Działająca paczka Poticraft 1.8.9!
++ NOWOŚĆ: Przycisk "FOLDER .MC" - szybki dostęp do Twoich plików .poticraft
++ NOWOŚĆ: Discord RP (Rich Presence) wyświetla teraz konkretną wersję gry
++ NOWOŚĆ: Status Discord zmienia się automatycznie podczas pobytu w Ustawieniach
++ ZMIANA: Blokada nicku i wersji podczas pracy gry (stabilność sesji)
++ ZMIANA: Poprawka AssetIndex dla wersji 1.8.9 (naprawa crashy)
++ ZMIANA: Naprawiono powrót do trybu No-Premium po anulowaniu logowania Microsoft
++ TEST: Optymalizacja szybkości sprawdzania bibliotek przed startem
 ---------------------------
 Dziękuje za obserwowanie projektu Minecraft by Poti!
